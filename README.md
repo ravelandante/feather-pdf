@@ -1,4 +1,4 @@
-# light-pdf
+# feather-pdf
 ## TODO
 - [x] fixing rotation (to portrait or landscape)
 - [x] simple PDF merging
